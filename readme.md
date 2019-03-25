@@ -1,7 +1,1 @@
-<html>
-<body>
-<video width="320" height="240" controls>
-  <source src="video.MP4" type="video/mp4">
-</video>
-</body>
-</html>
+<a href="http://aliwehbi.com/roboticsOneVideo.html" target="_blank">Watch the video ;)</a>
